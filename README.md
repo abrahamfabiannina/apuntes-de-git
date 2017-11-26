@@ -13,3 +13,6 @@ configurando git por mprimera ves
 ´´
 donde esta mi git
 ´´
+
+## VARIOS REPOSITORIOS REMOTOS
+Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos
